@@ -1,4 +1,4 @@
-package dev.jacobandersen.mf24j
+package dev.jacobandersen.microformats2
 
 /**
  * The result of parsing a document for microformats, mirroring the canonical

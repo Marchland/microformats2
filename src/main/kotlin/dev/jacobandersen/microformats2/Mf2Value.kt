@@ -1,7 +1,7 @@
-package dev.jacobandersen.mf24j
+package dev.jacobandersen.microformats2
 
-import dev.jacobandersen.mf24j.json.Mf2ValueDeserializer
-import dev.jacobandersen.mf24j.json.Mf2ValueSerializer
+import dev.jacobandersen.microformats2.json.Mf2ValueDeserializer
+import dev.jacobandersen.microformats2.json.Mf2ValueSerializer
 import tools.jackson.databind.JsonNode
 import tools.jackson.databind.annotation.JsonDeserialize
 import tools.jackson.databind.annotation.JsonSerialize

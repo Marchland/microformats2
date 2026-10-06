@@ -1,4 +1,4 @@
-package dev.jacobandersen.mf24j
+package dev.jacobandersen.microformats2
 
 /**
  * Backward-compatibility data for the microformats2 parsing algorithm: classic

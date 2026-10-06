@@ -1,4 +1,4 @@
-package dev.jacobandersen.mf24j
+package dev.jacobandersen.microformats2
 
 /**
  * Parses an HTML document into the canonical `{items, rels, rel-urls}`

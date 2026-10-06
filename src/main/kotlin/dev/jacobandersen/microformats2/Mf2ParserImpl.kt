@@ -1,4 +1,4 @@
-package dev.jacobandersen.mf24j
+package dev.jacobandersen.microformats2
 
 /**
  * The default [Mf2Parser] implementation. Stateless and safe for concurrent

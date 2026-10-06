@@ -1,4 +1,4 @@
-package dev.jacobandersen.mf24j
+package dev.jacobandersen.microformats2
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test

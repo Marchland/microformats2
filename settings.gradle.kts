@@ -1,1 +1,1 @@
-rootProject.name = "mf24j"
+rootProject.name = "microformats2"

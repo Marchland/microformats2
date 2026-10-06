@@ -7,7 +7,7 @@ plugins {
 
 group = "dev.jacobandersen"
 version = file("version.txt").readText().trim()
-description = "mf24j"
+description = "microformats2"
 
 java {
     toolchain {
@@ -47,13 +47,13 @@ publishing {
     publications {
         create<MavenPublication>("maven") {
             from(components["java"])
-            artifactId = "mf24j"
+            artifactId = "microformats2"
         }
     }
     repositories {
         maven {
             name = "GitHubPackages"
-            url = uri("https://maven.pkg.github.com/jacobsandersen/mf24j")
+            url = uri("https://maven.pkg.github.com/marchland/microformats2")
             credentials {
                 username = System.getenv("GITHUB_ACTOR") ?: (project.findProperty("gpr.user") as String?)
                 password = System.getenv("GITHUB_TOKEN") ?: (project.findProperty("gpr.token") as String?)

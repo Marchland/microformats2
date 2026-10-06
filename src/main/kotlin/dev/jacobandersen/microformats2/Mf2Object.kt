@@ -1,4 +1,4 @@
-package dev.jacobandersen.mf24j
+package dev.jacobandersen.microformats2
 
 /**
  * A parsed microformat: its `h-*` type(s), its properties in document order
